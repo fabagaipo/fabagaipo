@@ -17,8 +17,6 @@
 
 <br />
 
----
-
 <!-- ### Languages and Tools:
 
 <img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/19311256/89726915-bacbcc80-da3d-11ea-8541-c42ffcb3b7d0.png" />
@@ -45,7 +43,6 @@
 <br/> -->
 
 ---
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabagaipo)](https://github.com/fabagaipo/github-readme-stats)
 
