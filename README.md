@@ -1,5 +1,7 @@
 ### Hi there, I'm Fayne Roxenne A. Bagaipo 👋
 
+![](https://komarev.com/ghpvc/?username=fabagaipo&style=flat-square)
+
 ## I'm a Student (hopefully graduate by 2023)!
 - 🔭 I’m currently working on graduating college atm!
 - 🌱 I’m currently learning on how to be better at coding 🤣 (specififally javascript, express.js, angular, and node.js for webdev...129)
@@ -18,8 +20,6 @@
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
-
-![](https://komarev.com/ghpvc/?username=fabagaipo&style=flat-square)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fabagaipo&theme=tokyonight)]()
