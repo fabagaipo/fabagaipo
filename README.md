@@ -18,7 +18,8 @@
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
-![](https://komarev.com/ghpvc/?username=fabagaipo&style=flat-square&color=yellow)
+
+![](https://komarev.com/ghpvc/?username=fabagaipo&style=flat-square)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fabagaipo&theme=tokyonight)]()
