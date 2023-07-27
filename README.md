@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fabagaipo&style=flat-square)
 
-## I'm a Student (hopefully graduate by 2023)!
-- 🔭 I’m currently working on graduating college atm!
+## I'm a Full Stack Developer (currently)!
 - 🌱 I’m currently learning on how to be better at coding 🤣
 - 👯 I’m looking to collaborate with other people interested in the same things as me or just want to hang out in general
 - 📫 How to reach me: email (bagaipofayne@gmail.com) or any of my sns accounts listed below
