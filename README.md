@@ -1,5 +1,10 @@
 <h1 align="center">Hello 👋, I'm Fayne</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">
+  
+  Full-Stack Developer for
+
+![Static Badge](https://img.shields.io/badge/HQZen-%230374C7?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAMAAAANxBKoAAAAOVBMVEUAj%2FX7%2Fv6z4PeS0PYCkPcAiPE5p%2FX%2F%2F%2F%2F%2B%2F%2F8AivWHzPQbmO%2B75PdfuPHo9%2FtEqenG6vig2fPV7%2FcJUyNhAAABMklEQVRIx%2B2VzXLDIAyEwZYsCf%2FE7fs%2FbCXkJjgG0s700pnswQf587IjEA7hrf8gNImUJZBcxCs8p9G0lq9wzbU0yxMsE2UtCAW9eHG60tFEw8l7oFyt0MSR%2BUoTqzdWaOazN9zpmjdTQQME0dxRY%2FMrGgBxXgdz1iW7uc013MbNG9KiPXe2TbtyMTrcSyI5ga3k3rFJM%2B05QXTUvuBWTwxh%2BmY5ByHq0Jb9sNXH9nGzjrf6TcfDvojLOuO8dXLnFuQEn2nS84u7bSa3cx8JAoq2MmW4SVuCXRNo13U%2FZenSTFuaAioIhvupatJRp0GcNTkde7TPDjzOd8d7KCbtkQR%2FRbfn8oluzeVl5qE58%2Ff7RIobQtYxVe8TNXJB5a6qXFa%2BIXAqHdWfyWldAt6%2FiT%2FSF9WPEQeg4K2JAAAAAElFTkSuQmCC&link=hqzen.com)
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fabagaipo&label=Profile%20views&color=0e75b6&style=flat" alt="fabagaipo" />
@@ -11,6 +16,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 </p>
 
 <p align="center"> 
