@@ -1,14 +1,25 @@
 <h1 align="center">Hello 👋, I'm Fayne</h1>
-<h3 align="center">A Full-Stack Developer for HQZen</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabagaipo&label=Profile%20views&color=0e75b6&style=flat" alt="fabagaipo" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=fabagaipo&label=Profile%20views&color=0e75b6&style=flat" alt="fabagaipo" />
 
-- 🌱 I’m currently trying to spice up my portfolio in projects and certificates.
-- 👯 I’m looking to collaborate with other people interested in the same things as me or just want to hang out in general
-- 📫 How to reach me: email (bagaipofayne@gmail.com) or any of my sns accounts listed below
-- 😄 Pronouns: she/her
-- 🥅 Life Goals: Be able to look back and be proud of how far I've come.
-- ⚡ Hobbies: Gamesss (come play multiplayers with me), Music, Movies, and Manga/Webtoons
+  What I currently use:
+  
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</p>
+
+<p align="center"> 
+  <img width="200px" src="https://media1.tenor.com/m/BP70qe8X0J8AAAAC/crycat-crying-cat.gif" />
+  <img width="335px" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" />
+  <img width="200" src="https://media.tenor.com/9x_peML9tKQAAAAM/sad-cat.gif" />
+</p>
+
+📫 Reach me using my email (bagaipofayne@gmail.com) or any of my sns accounts listed below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
