@@ -29,10 +29,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/infaynety" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" /></a>
+    <a href="https://x.com/infaynety" target="_blank"><img align="left" alt="X" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/640px-X_logo_2023.svg.png" /></a>
     <a href="https://linkedin.com/in/fabagaipo" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
-    <a href="http://discordapp.com/users/548838201549258772" target="_blank"><img align="left" alt="Discord" width="30px" src="https://upload.wikimedia.org/wikipedia/en/0/05/Discord_Logo.svg" /></a>
-    <a href="https://reddit.com/user/fayayay" target="_blank"><img align="left" alt="Reddit" width="30px" src="https://upload.wikimedia.org/wikipedia/en/6/67/Reddit_logo.svg" /></a>
+    <a href="http://discordapp.com/users/548838201549258772" target="_blank"><img align="left" alt="Discord" width="50px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" /></a>
+    <a href="https://reddit.com/user/fayayay" target="_blank"><img align="left" alt="Reddit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Snoo.svg/640px-Snoo.svg.png" /></a>
     <a href="https://steamcommunity.com/id/yippiefay/" target="_blank"><img align="left" alt="Steam" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" /></a>
 </p>
 
