@@ -25,6 +25,8 @@
   <img width="200" src="https://media.tenor.com/9x_peML9tKQAAAAM/sad-cat.gif" />
 </p>
 
+❔ Looking for old repos from when I was still in university? Try looking for them here (https://github.com/fabagaipo-up)
+
 📫 Reach me using my email (bagaipofayne@gmail.com) or any of my sns accounts listed below
 
 <h3 align="left">Connect with me:</h3>
