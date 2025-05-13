@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-### 🏫 School / Languages
+### 🧰 Programming Fundamentals
 <table>
   <tr>
     <td align="center">
@@ -159,6 +159,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -171,8 +186,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+      <a href="https://golang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
