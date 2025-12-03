@@ -33,6 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabagaipo)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fabagaipo)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bagaipofayne)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://fayne-dev.vercel.app)
 
 </p>
 
@@ -81,7 +82,7 @@
 ![40%](https://progress-bar.xyz/40)
 
 #### Cybersecurity
-![20%](https://progress-bar.xyz/20)
+![40%](https://progress-bar.xyz/20)
 
 #### Game Development
 ![20%](https://progress-bar.xyz/20)
