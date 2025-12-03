@@ -3,7 +3,9 @@
   
   Full-Stack Developer for
 
-![Static Badge](https://img.shields.io/badge/HQZen-%230374C7?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAMAAAANxBKoAAAAOVBMVEUAj%2FX7%2Fv6z4PeS0PYCkPcAiPE5p%2FX%2F%2F%2F%2F%2B%2F%2F8AivWHzPQbmO%2B75PdfuPHo9%2FtEqenG6vig2fPV7%2FcJUyNhAAABMklEQVRIx%2B2VzXLDIAyEwZYsCf%2FE7fs%2FbCXkJjgG0s700pnswQf587IjEA7hrf8gNImUJZBcxCs8p9G0lq9wzbU0yxMsE2UtCAW9eHG60tFEw8l7oFyt0MSR%2BUoTqzdWaOazN9zpmjdTQQME0dxRY%2FMrGgBxXgdz1iW7uc013MbNG9KiPXe2TbtyMTrcSyI5ga3k3rFJM%2B05QXTUvuBWTwxh%2BmY5ByHq0Jb9sNXH9nGzjrf6TcfDvojLOuO8dXLnFuQEn2nS84u7bSa3cx8JAoq2MmW4SVuCXRNo13U%2FZenSTFuaAioIhvupatJRp0GcNTkde7TPDjzOd8d7KCbtkQR%2FRbfn8oluzeVl5qE58%2Ff7RIobQtYxVe8TNXJB5a6qXFa%2BIXAqHdWfyWldAt6%2FiT%2FSF9WPEQeg4K2JAAAAAElFTkSuQmCC&link=hqzen.com)
+<a href="https://hqzen.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HQZen-%230374C7?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAMAAAANxBKoAAAAOVBMVEUAj%2FX7%2Fv6z4PeS0PYCkPcAiPE5p%2FX%2F%2F%2F%2F%2B%2F%2F8AivWHzPQbmO%2B75PdfuPHo9%2FtEqenG6vig2fPV7%2FcJUyNhAAABMklEQVRIx%2B2VzXLDIAyEwZYsCf%2FE7fs%2FbCXkJjgG0s700pnswQf587IjEA7hrf8gNImUJZBcxCs8p9G0lq9wzbU0yxMsE2UtCAW9eHG60tFEw8l7oFyt0MSR%2BUoTqzdWaOazN9zpmjdTQQME0dxRY%2FMrGgBxXgdz1iW7uc013MbNG9KiPXe2TbtyMTrcSyI5ga3k3rFJM%2B05QXTUvuBWTwxh%2BmY5ByHq0Jb9sNXH9nGzjrf6TcfDvojLOuO8dXLnFuQEn2nS84u7bSa3cx8JAoq2MmW4SVuCXRNo13U%2FZenSTFuaAioIhvupatJRp0GcNTkde7TPDjzOd8d7KCbtkQR%2FRbfn8oluzeVl5qE58%2Ff7RIobQtYxVe8TNXJB5a6qXFa%2BIXAqHdWfyWldAt6%2FiT%2FSF9WPEQeg4K2JAAAAAElFTkSuQmCC" />
+</a>
 </h3>
 
 <p align="left"> 
