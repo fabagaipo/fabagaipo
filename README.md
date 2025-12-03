@@ -84,7 +84,7 @@
 ![40%](https://progress-bar.xyz/40)
 
 #### Cybersecurity
-![40%](https://progress-bar.xyz/20)
+![40%](https://progress-bar.xyz/40)
 
 #### Game Development
 ![20%](https://progress-bar.xyz/20)
