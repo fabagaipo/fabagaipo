@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👋, I'm Fayne</h1>
 <h3 align="center">
   
-  Full-Stack Developer for
+  Technical Account Manager for
 
-<a href="https://hqzen.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/HQZen-%230374C7?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAMAAAANxBKoAAAAOVBMVEUAj%2FX7%2Fv6z4PeS0PYCkPcAiPE5p%2FX%2F%2F%2F%2F%2B%2F%2F8AivWHzPQbmO%2B75PdfuPHo9%2FtEqenG6vig2fPV7%2FcJUyNhAAABMklEQVRIx%2B2VzXLDIAyEwZYsCf%2FE7fs%2FbCXkJjgG0s700pnswQf587IjEA7hrf8gNImUJZBcxCs8p9G0lq9wzbU0yxMsE2UtCAW9eHG60tFEw8l7oFyt0MSR%2BUoTqzdWaOazN9zpmjdTQQME0dxRY%2FMrGgBxXgdz1iW7uc013MbNG9KiPXe2TbtyMTrcSyI5ga3k3rFJM%2B05QXTUvuBWTwxh%2BmY5ByHq0Jb9sNXH9nGzjrf6TcfDvojLOuO8dXLnFuQEn2nS84u7bSa3cx8JAoq2MmW4SVuCXRNo13U%2FZenSTFuaAioIhvupatJRp0GcNTkde7TPDjzOd8d7KCbtkQR%2FRbfn8oluzeVl5qE58%2Ff7RIobQtYxVe8TNXJB5a6qXFa%2BIXAqHdWfyWldAt6%2FiT%2FSF9WPEQeg4K2JAAAAAElFTkSuQmCC" />
+<a href="https://trustarc.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TrustArc-01023A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIj4KPHBhdGggZD0iTTAgMCBDNC41NzgzMjk1NiAxLjU1Mzk1ODU3IDYuODk5NDAyNzIgNC43NjMyMDIxIDkgOSBDOS43MzUwMzU3OSAxNC42NjE3NjIyIDEwLjQ0ODg5MzkyIDIxLjYzODY3MDc2IDcuMzEyNSAyNi42ODc1IEMzLjkyNzU5MDc5IDMwLjA3MjQwOTIxIDEuNDI4MjE3OTQgMzEuODQ3ODUzMDcgLTMuNDEwMTU2MjUgMzIuMzYzMjgxMjUgQy00LjYxNTQyOTY5IDMyLjM0NjUyMzQ0IC01LjgyMDcwMzEzIDMyLjMyOTc2NTYzIC03LjA2MjUgMzIuMzEyNSBDLTguMjcwMzUxNTYgMzIuMzA4NjMyODEgLTkuNDc4MjAzMTMgMzIuMzA0NzY1NjMgLTEwLjcyMjY1NjI1IDMyLjMwMDc4MTI1IEMtMTMuNzQ5MDEwNzQgMzIuMDIzMDM0NzcgLTE1LjQ1OTc2ODU1IDMxLjU5MDAyMDE4IC0xOCAzMCBDLTE3LjU2MDczNDMxIDIxLjk0Njc5NTcgLTE0LjQwNzk3MDQyIDE2LjYxMTk1NTYzIC0xMCAxMCBDLTExLjI3NDAwMzc3IDExLjI0Njc2ODUzIC0xMi41NDQwNjY1NCAxMi40OTc1NjQ4IC0xMy44MTI1IDEzLjc1IEMtMTQuNTIwMTk1MzEgMTQuNDQ2MDkzNzUgLTE1LjIyNzg5MDYzIDE1LjE0MjE4NzUgLTE1Ljk1NzAzMTI1IDE1Ljg1OTM3NSBDLTE4LjAzMjgxNDkzIDE3LjkzNzIxNzYzIC0xOC4wMzI4MTQ5MyAxNy45MzcyMTc2MyAtMTkuNjM2NzE4NzUgMjAuMjY1NjI1IEMtMjAuMDg2NjAxNTYgMjAuODM3OTY4NzUgLTIwLjUzNjQ4NDM4IDIxLjQxMDMxMjUgLTIxIDIyIEMtMjEuNjYgMjIgLTIyLjMyIDIyIC0yMyAyMiBDLTIzLjYyMjg5MjY0IDEwLjMzODA2NTY2IC0yMy42MjI4OTI2NCAxMC4zMzgwNjU2NiAtMjEuMzEyNSA1LjM3NSBDLTE1LjA0OTU4Mjg5IC0xLjA1NzE4NTE0IC04LjU4NDc3NTE0IC0wLjkwNjg0MjQ0IDAgMCBaICIgZmlsbD0iIzM2OTlGMCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjMsMCkiLz4KPC9zdmc%2BCg%3D%3D&color=%23FFFFFF" />
 </a>
 </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fabagaipo&label=Profile%20views&color=0e75b6&style=flat" alt="fabagaipo" />
 
-<h3 aligh="left">💻 What I currently use:</h3>
+<!-- <h3 aligh="left">💻 What I currently use:</h3>
   
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -19,7 +19,7 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</p>
+</p> -->
 
 <p align="center"> 
   <img width="200px" src="https://media1.tenor.com/m/BP70qe8X0J8AAAAC/crycat-crying-cat.gif" />
@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="left">🌱 My Growing Stack:</h3>
+<h3 align="left">🌱 My Web Dev Side:</h3>
 
 ### 🛠 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,13 +78,13 @@
 #### Web Development
 ![70%](https://progress-bar.xyz/70)
 
+#### Cybersecurity
+![60%](https://progress-bar.xyz/60)
+
 #### AI
 ![50%](https://progress-bar.xyz/50)
 
 #### Data Science
-![40%](https://progress-bar.xyz/40)
-
-#### Cybersecurity
 ![40%](https://progress-bar.xyz/40)
 
 #### Game Development
