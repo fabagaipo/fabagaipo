@@ -25,7 +25,7 @@
 -->
 ---
 
-### Actively Learning
+### Actively Learning:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -33,6 +33,7 @@
 
 ---
 
+### Interest Level:
 <table>
 <tr>
 <td align="center" width="180">
